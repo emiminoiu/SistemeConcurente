@@ -1,0 +1,2 @@
+Tema 2 - numarare concurenta
+Se observa ca valoarea lui n variaza in intervalul [10,20] in functie de executie(concurenta/paralela(simultana))
